@@ -1,0 +1,16 @@
+Problem(6)Boctor(1991)_7x11.gtx
+
+Machines     Parts        Cells(p)    U 
+7            11           3           3
+    
+1       1    3    
+2       1    2    
+3       3    4    5    
+4       5    6    
+5       6    7    
+6       1    2    
+7       3    4    
+8       7    
+9       2    
+10      6    7    
+11      3    5
